@@ -1,0 +1,39 @@
+{
+  "navLinks": {
+    "events": "Events",
+    "more": "More",
+    "community": "Community"
+  },
+  "userTabs": {
+    "athlete": {
+      "profile": "Profile",
+      "events": "Events",
+      "history": "History",
+      "team": "My team",
+      "settings": "Settings",
+      "exit": "Exit"
+    },
+    "team": {
+      "profile": "Profile",
+      "athletes": "Athletes",
+      "statistic": "Statistic",
+      "settings": "Settings",
+      "exit": "Выйти"
+    },
+    "organizer": {
+      "profile": "Profile",
+      "events": "My events",
+      "settings": "Settings",
+      "exit": "Выйти"
+    },
+    "public": {
+      "team": {
+        "profile": "Profile",
+        "athletes": "Athletes",
+        "statistic": "Statistic"
+      }
+    },
+    "exit": "Exit",
+    "login": "Login"
+  }
+}

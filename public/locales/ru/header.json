@@ -1,0 +1,39 @@
+{
+  "navLinks": {
+    "events": "Турниры",
+    "more": "Подробнее",
+    "community": "Сообщество"
+  },
+  "userTabs": {
+    "athlete": {
+      "profile": "Профиль",
+      "events": "Мои турниры",
+      "history": "Моя история",
+      "team": "Мои команды",
+      "settings": "Настройки",
+      "exit": "Выйти"
+    },
+    "team": {
+      "profile": "Профиль",
+      "athletes": "Атлеты",
+      "statistic": "Статистика",
+      "settings": "Настройки",
+      "exit": "Выйти"
+    },
+    "organizer": {
+      "profile": "Профиль",
+      "events": "Мои турниры",
+      "settings": "Настройки",
+      "exit": "Выйти"
+    },
+    "public": {
+      "team": {
+        "profile": "Профиль",
+        "athletes": "Атлеты",
+        "statistic": "Статистика"
+      }
+    },
+    "exit": "Выйти",
+    "login": "Войти"
+  }
+}

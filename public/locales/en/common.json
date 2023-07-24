@@ -1,0 +1,93 @@
+{
+  "userRoles": {
+    "organizer": "Organizer",
+    "team": "Team",
+    "athlete": "Athlete"
+  },
+  "form": {
+    "titles": {
+      "profileEdit": "Profile editing"
+    },
+    "fieldsNames": {
+      "region": "Region",
+      "website": "Website",
+      "fullNameMainCoach": "Name of head coach",
+      "emailCoach": "Trainer email",
+      "typeSport": "Kind of sport",
+      "description": "Description",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "birthDate": "Date of birth",
+      "gender": {
+        "label": "Gender",
+        "male": "Male",
+        "female": "Female"
+      },
+      "notNecessary": "not necessary",
+      "phoneNumber": "Phone number",
+      "email": "Email",
+      "organizationName": "Name of the Organization",
+      "country": "Country",
+      "city": "City",
+      "actualAddress": "The actual address",
+      "legalAddress": "Legal address",
+      "legalName": "Legal name",
+      "profileAvatar": {
+        "label": "Profile photo",
+        "description": "The photo is displayed, for example, next to your profile",
+        "rules4mb": "We recommend using an image that is at least 600x600 pixels in PNG format. File size - no more than 4 MB."
+      },
+      "changePassword": "Change password",
+      "deleteProfile": {
+        "label": "delete profile",
+        "extra": "You can"
+      },
+      "enterOldPassword": "Enter old password",
+      "enterNewPassword": "Enter new password",
+      "edit": "Edit",
+      "contacts": "Contacts",
+      "profileType": "Type of profile",
+      "open": "Open",
+      "close": "Close",
+      "password": "Password",
+      "oldPassword": "Old password",
+      "newPassword": "New password",
+      "cancel": "Cancel",
+      "save": "Save",
+      "send": "Send",
+      "selectDate": "Select date",
+      "dateFormat": "dd/MM/yyyy",
+      "position": "Postion",
+      "requisites": "Requisites",
+      "bin": "BIN",
+      "iban": "Account number (IBAN)",
+      "bankName": "Name of the Bank",
+
+      "selectFile": "Select a file",
+      "uploadNewFile": "Uploading a new photo",
+      "userAvaRules1": "We recommend using an image of at least 600x600 pixels in PNG format.",
+      "userAvaRules2": "File size - no more than 4 MB.",
+
+      "crop": {
+        "title": "Banner settings",
+        "rules": "The recommended minimum image size is 1408 x 448 pixels in JPG format. File size - no more than 4 MB."
+      }
+    },
+    "status": {
+      "waitForServer": "Wait for a response from the server"
+    }
+  },
+  "validation": {
+    "required": "Required field!",
+    "emailValid": "Enter the email field correctly",
+    "emailRequired": "Fill in the mail field",
+    "imageSizeValid": "The file size must be no more than 4 MB.",
+    "phoneNumberMin": "Phone number must be at least 12 characters"
+  },
+  "more": "More",
+  "currency": {
+    "kzt": "Tenge",
+    "usd": "Dollar",
+    "eur": "Euro"
+  }
+}
